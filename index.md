@@ -2,4 +2,7 @@
 ### This is a summary of his past and present projects.
 Detailed descriptions go here.
 
-:email:
+---
+### Contact me
+### [:email:](xing.liu16@imperial.ac.uk) 
+<i class="fab fa-linkedin"></i>

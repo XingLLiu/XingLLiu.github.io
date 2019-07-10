@@ -1,5 +1,13 @@
 theme: jekyll-theme-cayman
 title: "Xing Liu's website"
+
+highlighter: rouge
+
+author :
+  name : Xing Liu
+  email : xing.liu16@imperial.ac.uk
+  github : XingLLiu
+  
 description: "This is my personal website."
 tags: [academic, mathematics, statistics, machine learning]
 show-avatar: true

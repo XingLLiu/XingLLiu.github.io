@@ -3,6 +3,6 @@
 Detailed descriptions go here.
 
 ---
-### Contact me
-### [:email:](xing.liu16@imperial.ac.uk) 
+# Contact me
+[:email:](xing.liu16@imperial.ac.uk) 
 <i class="fab fa-linkedin"></i>

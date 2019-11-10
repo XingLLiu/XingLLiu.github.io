@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about_me/
 author_profile: true
 ---
-Click [here](http://XingLLiu.github.io/files/cv_academic.pdf) for my academic CV.
+Short [CV](http://XingLLiu.github.io/files/cv_academic.pdf)
 
 ## Short Bio
 

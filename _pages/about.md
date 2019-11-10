@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my website. If you are interested in my research, or simply want to reach out, please feel free to contact me by sending me an email! 
+This is the home page of my website. If you are interested in my research, or simply want to get in touch, please feel free to contact me by sending me an email! 
 

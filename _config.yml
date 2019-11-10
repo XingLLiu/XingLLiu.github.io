@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu"
+title                    : "Xing Liu 刘行"
 title_separator          : "-"
 name                     : &name "Xing liu"
 description              : &description "Welcome to my personal webpage!"
@@ -83,11 +83,11 @@ author:
   name             : "Xing Liu"
   avatar           : "profile.png"
   bio              : "Part III student in Mathematical Statistics at University of Cambridge"
-  location         : "St John's College, Cambridgeshire, UK"
+  location         : "St John's College, Cambridgeshire, UK. CB2 1TW"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "xl6116@ic.ac.uk"
+  email            : "xl460@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

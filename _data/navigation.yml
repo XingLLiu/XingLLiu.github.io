@@ -18,5 +18,8 @@ main:
   - title: "About Me"
     url: /about_me/
 
+  - title: "Test"
+    url: /test/
+
 #  - title: "Guide"
 #    url: /markdown/

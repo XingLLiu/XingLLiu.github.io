@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the home page of my website. If you are interested in my research, or simply want to get in touch, please feel free to send me an email. 
+I am a Part III student doing Mathematical Statistics at St John's College, University of Cambridge. My research interests lie in statistical machine learning and Monte Carlo methods.

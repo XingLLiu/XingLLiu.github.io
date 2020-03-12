@@ -16,8 +16,9 @@ author_profile: true
 {% endfor %}
 
 ## Predicting Sepsis at Triage
-_Fields Undergraduate Summer Research Program_ \
-Xing Liu; supervised by Dr. Anna Goldenberg and Erik Drysdale \
+_Fields Undergraduate Summer Research Program_\ 
+Xing Liu; supervised by Dr. Anna Goldenberg and Erik Drysdale
+
 _Abstract_: Sepsis is a lethal disease that causes millions of neonatal deaths annually, and one hour in the treatment procedure can make a huge difference for septic patients. In this regard, using machine learning approaches to help clinicans to make early Sepsis predictions has gain in popularity in recent years. Although many have shown promising predictive performance, these methods generally suffer from high false positive rates. We propose two neural network models that makes use of two natural language processing techniques, namely the TF-IDF and the Clinical BERT, and show experimentally how they could improve the predictive performance at medical triage. We train these models on a EPIC dataset that contains medical records from the SickKids Hospital in Toronto, Canada, and compare their performance with a number of ordinary machine learning models via an one-month-ahead evaluation scheme. We argue that these models outperform the RN Sepsis alert tools at SickKids in terms of the sensitivity for a given false positive rate of 10\%, thus showing potentials for practical benefit.
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Xing's webpage!"
+title: "Welcome to Xing's webpage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

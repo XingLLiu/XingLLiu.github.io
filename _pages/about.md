@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Part III student doing Mathematical Statistics at St John's College, University of Cambridge. My research interests lie in statistical machine learning and Monte Carlo methods.
+I am a Part III student doing Mathematical Statistics at St John's College, University of Cambridge. My research interests lie in Monte Carlo methods and statistical machine learning.

@@ -18,5 +18,8 @@ main:
   - title: "About Me"
     url: /about_me/
 
+  - title: "Imperial Maths Competition"
+    url: /imperial_maths_competition/
+
 #  - title: "Guide"
 #    url: /markdown/

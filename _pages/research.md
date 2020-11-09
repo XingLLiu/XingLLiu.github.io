@@ -15,29 +15,23 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Predicting Sepsis at Triage
-_Fields Undergraduate Summer Research Program_ <br>
-Xing Liu; supervised by Dr. Anna Goldenberg and Erik Drysdale <br>
 
-_Abstract_: Sepsis is a lethal disease that causes millions of neonatal deaths annually, and one hour in the treatment procedure can make a huge difference for septic patients. In this regard, using machine learning approaches to help clinicans to make early Sepsis predictions has gain in popularity in recent years. Although many have shown promising predictive performance, these methods generally suffer from high false positive rates. We propose two neural network models that makes use of two natural language processing techniques, namely the TF-IDF and the Clinical BERT, and show experimentally how they could improve the predictive performance at medical triage. We train these models on a EPIC dataset that contains medical records from the SickKids Hospital in Toronto, Canada, and compare their performance with a number of ordinary machine learning models via an one-month-ahead evaluation scheme. We argue that these models outperform the RN Sepsis alert tools at SickKids in terms of the sensitivity for a given false positive rate of 10%, thus showing potentials for practical benefit.
+# Publication
+- Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. To appear at Neural Information Processing Systems. [*(Preprint)*](https://arxiv.org/abs/2006.05371)
 
+# Discussions
+- Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3). To appear in [*Journal (pp55-58)*](https://projecteuclid.org/euclid.ba/1580461461#abstract) [*(Preprint)*](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf).
 
-## Bayesian Additive Regression Trees for Bayesian Quadrature
-_Work in progress_ <br>
-Seth Flaxman, Zhichao Shen, Ruya Kang, Harrison Zhu, Xing Liu, Wei Jiang
-
-
-## Statistical Modelling for Streaming Data
-_Undergraduate Research Opportunity Programme_ <br>
-Xing Liu; supervised by Dr Din-Houn Lau <br>
-
-_Abstract_: Implementing regression models on streaming data is a popular topic in diverse areas, e.g., finance and structure engineering. This report provides a revision of a number of celebrated online regression and monitoring techniques, which are useful and popular tools for modeling streaming data. <br>
-We begin this project by introducing the recursive least-square algorithm, together with the iterative formulae for some important goodness-of-fit measures. We then consider the problem of isolated departures (outliers) by investigating the leverage and the studentized residual. In the second part of the report, we study various change-point detection methods and develop further on the Quandt's test, followed by an analysis of their performance on both synthetic data and a chromosome study. It turns out that this newly proposed modified Quandt's test produces competitive empirical results on both experiments.
+# Research Projects
+### Predicting Sepsis at Triage
+<span style="color:grey">_Fields Undergraduate Summer Research Program_ </span> <br>
+**Xing Liu**; supervised by Dr. Anna Goldenberg and Erik Drysdale <br>
+<span style="color:grey">_Abstract:_</span>
+Sepsis is a lethal disease that causes millions of neonatal deaths annually, and one hour in the treatment procedure can make a huge difference for septic patients. In this regard, using machine learning approaches to help clinicans to make early Sepsis predictions has gain in popularity in recent years. Although many have shown promising predictive performance, these methods generally suffer from high false positive rates. We propose two neural network models that respectively makes use of the TF-IDF and the Clinical BERT model, and show experimentally how they could improve the predictive performance at medical triage. We train these models on a EPIC dataset that contains medical records from the SickKids Hospital in Toronto, Canada, and compare their performance with a number of ordinary machine learning models via an one-month-ahead prediction scheme. We argue that our models outperform the RN Sepsis alert tools at SickKids in terms of the sensitivity for a given false positive rate of 10%, thus showing potentials for practical benefit.
 
 
-## Stein's Paradox
-_Year Two Undergraduate Research Project_ <br>
-Hokwan Chan, Sicong Chen, Alfred Hewes, Xing Liu, Ben Tu; supervised by Professor Alastair Young <br>
-
-_Abstract_: Having observed a collection of data where each is drawn from an independent normal distribution, what is the best way to estimate the means of each of these distributions? Intuitively, computing the averages separately for each independent distribution gives the most reliable guess. However, in 1955, Stein stunned the statistical world by introducing an estimator that out-performs the arithmetic mean in terms of the quadratic loss. This led to the Stein's Paradox, where an estimator uses samples of independent distributions to collectively make inferences on independent parameters. <br>
-In this project, we begin by formulating several estimators that dominate the sample mean, including the James-Stein estimator and its extensions. We then analyze how the reduction in risk varies under certain conditions to investigate which estimators are more desirable. By applying the estimators to a real-life example and considering the statstical and computational trade-off, we show that the so-called Positive-part James-Stein estimator is superior to the others.
+### Approximate Bayesian Computation with Optimal Transport
+<span style="color:grey">_Part III Essay;_ [_link_](http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf) </span><br>
+**Xing Liu**; supervised by Dr. Sergio Bacallado <br>
+<span style="color:grey">_Abstract:_</span> 
+The complexity of many real-life data generating processes either defies the access to the likelihood function or renders it too expansive to be evaluated. In this case, standard Bayesian inference techniques, such as Markov chain Monte Carlo, can no longer be used. A popular roundabout is Approximate Bayesian Computation (ABC). ABC only assumes one has a generative model from which data can be drawn. It relies on a user-specified discrepancy metric that compares some summaries of the observation and the generated data. However, an improperly selected metric or summary may bias the discrimination between models. Optimal transport (OT) metrics have recently been proposed to remedy this issue. OT metrics are flexible, admit decent convergence properties and are often able to capture all differences between distributions. In this essay, we review and compare two OT metrics and one information-based measure that arose in the ABC literature, namely the Wasserstein distances, the maximum mean discrepancy (MMD) and the Kullback-Leibler (KL) divergence. We summarize the theoretical studies of their posterior concentration in the present literature, and discuss how these metrics can be adapted to large-scale data sets. We also compare these methods through four benchmark experiments, including a real-life study on ecological dynamic systems.

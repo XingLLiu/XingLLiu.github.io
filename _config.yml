@@ -57,8 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
+  username               : &xingliu97
+  facebook:
   username               :
   app_id                 :
   publisher              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "@xingliu97"
   vine             :
   weibo            :
   xing             :

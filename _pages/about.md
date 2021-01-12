@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student of Statistics at Imperial College London on the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/), supervised by Dr [Din-Houn Lau](http://wwwf.imperial.ac.uk/~fdl06/) and Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/). My research interests lie in Monte Carlo methods, tree-based models and statistical machine learning.
 
-I am helping Dr [James Martin]{https://www.imperial.ac.uk/people/james.martin} with the development of materials for the new course [MSc Machine Learning and Data Science (Online)]{https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/}, which will be launched in year 2021-2022.
+I am helping Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) with the development of materials for the new course [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/), which will be launched in year 2021-2022.
 
 ## Education
 :mortar_board: MASt (Part III) in Mathematical Statistics, 2020, <span style="color:grey">University of Cambridge</span> \

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/). My research interests lie in Bayesian inference, tree-based models and statistical machine learning.
+I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). My research interests lie in Bayesian inference, approximate inference and statistical machine learning.
 
 I am helping Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) to develop course materials for the new programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/), which will be launched in autumn 2021.
 

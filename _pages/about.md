@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). My research interests lie in computational Bayesian statistics and approximate inference.
 
-I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which is led by [Dr James Martin](https://www.imperial.ac.uk/people/james.martin) and is part of the programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/), which will be launched in autumn 2021. If you have any questions about the course material, you could find me on MS Teams or post a question on the discussion forum on Coursera!
+I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which is lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) and is part of the programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/), which will be launched in autumn 2021. If you have any questions about the course material, you could find me on MS Teams or post a question on the discussion forum on Coursera!
 
 ## Education 
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span style="color:grey">Imperial College London</span> \

@@ -266,6 +266,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jemoji   # emoji
+  - jekyll-last-modified-at
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -274,6 +276,9 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# Last edit: Date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 # Archives
 #  Type

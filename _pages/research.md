@@ -17,16 +17,16 @@ author_profile: true
 
 
 # Publication
-- Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. To appear at Neural Information Processing Systems. [*(Preprint)*](https://arxiv.org/abs/2006.05371)
+- Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [*(Conference)*](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [*(Paper)*](https://proceedings.neurips.cc/paper/2020/file/3fe94a002317b5f9259f82690aeea4cd-Paper.pdf)
 
 
 # Discussion
-- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3). To appear in [*Journal (pp55-58)*](https://projecteuclid.org/euclid.ba/1580461461#abstract) [*(Preprint)*](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf).
+- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. [(*Journal (pp1032-1034)*)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [*(Paper)*](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf).
 
 # Talks
-- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. 13th International Conference on Monte Carlo Methods and Applications (MCM), Universität Mannheim, Germany (online) ([slides](http://XingLLiu.github.io/files/CO_BART_mcm.pdf)).
+- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) [*(slides)*](http://XingLLiu.github.io/files/CO_BART_mcm.pdf).
 
-- 31st Mar 2021, *Stein Variational Gradient Descent*. CSML Reading Group at Imperial College London (online)
+- 31st Mar 2021, *Stein Variational Gradient Descent*. **CSML Reading Group** at Imperial College London (online)
 
 
 # Research Projects

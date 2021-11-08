@@ -20,7 +20,7 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 
 ## News (Last Update: 06/11/2021) 
   ### Volunteering Opportunity in Data Analytics and/or Digital Marketing
-  Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for this project. This project, named **Search Engine Optimization (SEO) 2.0**, aims to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts and provide guidance by leveraging your experience in data analytics and/or digital marketing. 
+  Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for this project. This project, named *Search Engine Optimization (SEO) 2.0*, aims to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts and provide guidance by leveraging your experience in data analytics and/or digital marketing. 
 
   The expected time commitment is 3 hours per week from November 2021 to early February 2022. Find out more and apply [here](https://opps.bridgesforenterprise.com/global/technology/Digital-Campaign-Analysis/) if you are interested!
 

@@ -275,6 +275,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-last-modified-at
 
 # Last edit: Date format, used if none is specified in the tag.
 last-modified-at:

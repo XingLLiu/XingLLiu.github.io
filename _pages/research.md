@@ -24,7 +24,7 @@ author_profile: true
 - Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. [(*Journal (pp1032-1034)*)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [*(Paper)*](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf).
 
 # Talks
-- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) [*(slides)*](http://XingLLiu.github.io/files/CO_BART_mcm.pdf).
+- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) [*(slides)*](http://XingLLiu.github.io/files/BO_BART_mcm.pdf).
 
 - 31st Mar 2021, *Stein Variational Gradient Descent*. **CSML Reading Group** at Imperial College London (online)
 

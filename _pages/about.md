@@ -18,6 +18,9 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 :mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span style="color:grey">Imperial College London</span>
 
 
+## Resources
+[Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an unofficial LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
+
 ## News (Last Update: 06/11/2021) 
 ### Volunteering Opportunity in Data Analytics and/or Digital Marketing
 Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for a tech project named *Search Engine Optimization (SEO) 2.0*. The goal of SEO 2.0 is to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts, oversee their works and provide guidance by leveraging your experience in data analytics and/or digital marketing. 

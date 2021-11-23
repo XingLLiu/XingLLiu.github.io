@@ -21,7 +21,10 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 ## Resources
 [Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an unofficial LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
 
-## News (Last Update: 06/11/2021) 
+## News (Last Update: 23/11/2021) 
+### Volunteering Opportunity in React/Django
+We are looking for student and professional volunteers to join in a **React / Django development project**We are looking for student and professional volunteers to join in a [React / Django development project] for the intranet in a global nonprofit called Bridges for Enterprise (BfE). The time commitment is 4-6 hours per week from January to May 2022. Through the project, you will be able to practice your skills in React / Django and network with tech enthusiasts and social impact oriented people across the world. Your code will play a key role in building digital products for BfE to **help nurture social enterprise startups across the globe and deliver social impact** across areas including economic empowerment, education, clean energy, gender inequality and more. You may read the detailed post and apply [here](https://opps.bridgesforenterprise.com/global/technology/Bfe-Intranet-Engineering/).
+
 ### Volunteering Opportunity in Data Analytics and/or Digital Marketing
 Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for a tech project named *Search Engine Optimization (SEO) 2.0*. The goal of SEO 2.0 is to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts, oversee their works and provide guidance by leveraging your experience in data analytics and/or digital marketing. 
 

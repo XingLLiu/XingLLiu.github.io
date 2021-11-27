@@ -22,6 +22,9 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 [Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an unofficial LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
 
 ## News (Last Update: 23/11/2021) 
+### Compromised LinkeIn Account!
+My [LinkedIn account](https://uk.linkedin.com/in/xingliu97) has been compromised and the name has been changed. **Please do NOT trust any message this account sends to you!**
+
 ### Volunteering Opportunity in React/Django
 We are looking for student and professional volunteers to join in a **React / Django development project**We are looking for student and professional volunteers to join in a [React / Django development project] for the intranet in a global nonprofit called Bridges for Enterprise (BfE). The time commitment is 4-6 hours per week from January to May 2022. Through the project, you will be able to practice your skills in React / Django and network with tech enthusiasts and social impact oriented people across the world. Your code will play a key role in building digital products for BfE to **help nurture social enterprise startups across the globe and deliver social impact** across areas including economic empowerment, education, clean energy, gender inequality and more. You may read the detailed post and apply [here](https://opps.bridgesforenterprise.com/global/technology/Bfe-Intranet-Engineering/).
 

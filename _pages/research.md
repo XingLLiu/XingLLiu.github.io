@@ -17,7 +17,7 @@ author_profile: true
 
 
 # Publication
-- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear at AISTATS 2022. [*(paper)*](https://arxiv.org/abs/2202.03297)
+- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. [*(paper)*](https://arxiv.org/abs/2202.03297)
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [*(Conference)*](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [*(Paper)*](https://proceedings.neurips.cc/paper/2020/file/3fe94a002317b5f9259f82690aeea4cd-Paper.pdf)
 
 

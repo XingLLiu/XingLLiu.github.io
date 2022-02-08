@@ -19,7 +19,7 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 
 
 ## Resources
-[Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an unofficial LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
+[Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an **unofficial** LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
 
 ## News (Last Update: 23/11/2021) 
 ### Volunteering Opportunity in React/Django

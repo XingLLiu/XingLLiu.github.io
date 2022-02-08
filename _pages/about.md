@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). My research interests lie in computational Bayesian statistics and approximate inference.
 
-I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which is lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) and is part of the programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/), which will be launched in autumn 2021. If you have any questions about the course material, you could find me on MS Teams or post a question on the discussion forum on Coursera!
+I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which is lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) and is part of the programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/). If you have any questions about the course material, you could find me on MS Teams or post a question on the discussion forum on Coursera!
 
 ## Education 
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span style="color:grey">Imperial College London</span> \
@@ -18,9 +18,15 @@ I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which
 :mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span style="color:grey">Imperial College London</span>
 
 
-## News (Last Update: 06/11/2021) 
+## Resources
+[Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an unofficial LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
+
+## News (Last Update: 23/11/2021) 
+### Volunteering Opportunity in React/Django
+We are looking for student and professional volunteers to join in a **React / Django development project**We are looking for student and professional volunteers to join in a [React / Django development project] for the intranet in a global nonprofit called Bridges for Enterprise (BfE). The time commitment is 4-6 hours per week from January to May 2022. Through the project, you will be able to practice your skills in React / Django and network with tech enthusiasts and social impact oriented people across the world. Your code will play a key role in building digital products for BfE to **help nurture social enterprise startups across the globe and deliver social impact** across areas including economic empowerment, education, clean energy, gender inequality and more. You may read the detailed post and apply [here](https://opps.bridgesforenterprise.com/global/technology/Bfe-Intranet-Engineering/).
+
 ### Volunteering Opportunity in Data Analytics and/or Digital Marketing
-Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for this project. This project, named *Search Engine Optimization (SEO) 2.0*, aims to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts and provide guidance by leveraging your experience in data analytics and/or digital marketing. 
+Bridges for Enterprise (BfE) is launching a project on digital campaign analysis and is looking for enthusiastic students/professionals to become a mentor for a tech project named *Search Engine Optimization (SEO) 2.0*. The goal of SEO 2.0 is to improve the quality and quantity of BfE’s website traffic by the means of data visualization, statistical analysis, and A/B testing. As a mentor, you will supervise a team of 2-3 analysts, oversee their works and provide guidance by leveraging your experience in data analytics and/or digital marketing. 
 
 The expected time commitment is 3 hours per week from November 2021 to early February 2022. Find out more and apply [here](https://opps.bridgesforenterprise.com/global/technology/Digital-Campaign-Analysis/) if you are interested!
 

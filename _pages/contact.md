@@ -13,5 +13,5 @@ London SW7 2AZ \
 UK
 
 ### Email
-xing [dot] liu16 [at] imperial.ac.uk
+[firstname].[lastname]16 [at] imperial.ac.uk
 

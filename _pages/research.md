@@ -17,7 +17,7 @@ author_profile: true
 
 
 # Publication
-- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. [*(paper)*](https://arxiv.org/abs/2202.03297)
+- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. [*(paper)*](https://arxiv.org/abs/2202.03297) [*(Slides)*](https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000)
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [*(Conference)*](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [*(Paper)*](https://proceedings.neurips.cc/paper/2020/file/3fe94a002317b5f9259f82690aeea4cd-Paper.pdf)
 
 
@@ -31,7 +31,10 @@ author_profile: true
 
 
 # Research Projects
-### Approximate Bayesian Computation with Optimal Transport
+- *Approximate Bayesian Computation with Optimal Transport*. Part III Essay; supervised by Dr. Sergio Bacallado. 2020. [(_link_)](http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf)
+- *Predicting Sepsis at Triage*. Fields Undergraduate Summer Research Program; supervised by Dr. Anna Goldenberg and Erik Drysdale. 2019
+
+<!-- ### Approximate Bayesian Computation with Optimal Transport
 <span style="color:grey">_Part III Essay;_ [_link_](http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf) </span><br>
 **Xing Liu**; supervised by Dr. Sergio Bacallado <br>
 <span style="color:grey">_Abstract_: </span>
@@ -41,4 +44,4 @@ The complexity of many real-life data generating processes either defies the acc
 <span style="color:grey">_Fields Undergraduate Summer Research Program_ </span> <br>
 **Xing Liu**; supervised by Dr. Anna Goldenberg and Erik Drysdale <br>
 <span style="color:grey">_Abstract_: </span>
-Sepsis is a lethal disease that causes millions of neonatal deaths annually, and one hour in the treatment procedure can make a huge difference for septic patients. In this regard, using machine learning approaches to help clinicans to make early Sepsis predictions has gain in popularity in recent years. Although many have shown promising predictive performance, these methods generally suffer from high false positive rates. We propose two neural network models that respectively makes use of the TF-IDF and the Clinical BERT model, and show experimentally how they could improve the predictive performance at medical triage. We train these models on a EPIC dataset that contains medical records from the SickKids Hospital in Toronto, Canada, and compare their performance with a number of ordinary machine learning models via an one-month-ahead prediction scheme. We argue that our models outperform the RN Sepsis alert tools at SickKids in terms of the sensitivity for a given false positive rate of 10%, thus showing potentials for practical benefit.
+Sepsis is a lethal disease that causes millions of neonatal deaths annually, and one hour in the treatment procedure can make a huge difference for septic patients. In this regard, using machine learning approaches to help clinicans to make early Sepsis predictions has gain in popularity in recent years. Although many have shown promising predictive performance, these methods generally suffer from high false positive rates. We propose two neural network models that respectively makes use of the TF-IDF and the Clinical BERT model, and show experimentally how they could improve the predictive performance at medical triage. We train these models on a EPIC dataset that contains medical records from the SickKids Hospital in Toronto, Canada, and compare their performance with a number of ordinary machine learning models via an one-month-ahead prediction scheme. We argue that our models outperform the RN Sepsis alert tools at SickKids in terms of the sensitivity for a given false positive rate of 10%, thus showing potentials for practical benefit. -->

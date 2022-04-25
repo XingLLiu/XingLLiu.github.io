@@ -26,7 +26,7 @@ author_profile: true
 
 # Talks
 - 31st May 2022, *Stein's Method in Statistics*. **Foundations and Landmark Reading Group** at University of London (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/steins_method_ucl.pdf','_blank')">Slides</button>
-- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Paper</button>
+- 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Slides</button>
 - 31st Mar 2021, *Stein Variational Gradient Descent*. **CSML Reading Group** at Imperial College London (online)
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('','_blank')"

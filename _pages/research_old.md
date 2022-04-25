@@ -17,19 +17,19 @@ author_profile: true
 {% endfor %} -->
 
 
-<h1>Publication</h1> 
+# Publication
 - **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. <a type="button" class="btn btn-primary btn-sm" onclick="window.location.href='https://arxiv.org/abs/2202.03297'">Paper</a> <a type="button" class="btn btn-primary" href="https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000">Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2111.02329.pdf" target="_blank" rel="noopener">PDF</a> <a href="#link" class="btn btn-info" role="button">Link Button</a> <button type="button" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">[PDF](https://arxiv.org/pdf/2111.02329.pdf)</button>
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. <a type="button" class="btn btn-primary" href="https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html">Paper</a>
 
-<h1>Discussion</h1>
+# Discussion
 - Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. <a type="button" class="btn btn-primary btn-sm" href="https://projecteuclid.org/euclid.ba/1580461461#abstract">Journal (pp1032-1034)</a> <a type="button" class="btn btn-primary" href="https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf">Paper</a>
 
-<h1>Talks</h1>
+# Talks
 - 31st May 2022, *Stein's Method in Statistics*. **Foundations and Landmark Reading Group** at University of London (online) <a type="button" class="btn btn-primary" href="http://XingLLiu.github.io/files/steins_method_ucl.pdf">Slides</a>
 - 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) <a type="button" class="btn btn-primary" href="http://XingLLiu.github.io/files/BO_BART_mcm.pdf">Paper</a>
 - 31st Mar 2021, *Stein Variational Gradient Descent*. **CSML Reading Group** at Imperial College London (online)
 
-<h1>Research Projects</h1>
+# Research Projects
 - *Approximate Bayesian Computation with Optimal Transport*. Part III Essay; supervised by Dr. Sergio Bacallado. 2020. [(_link_)](http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf)
 - *Predicting Sepsis at Triage*. Fields Undergraduate Summer Research Program; supervised by Dr. Anna Goldenberg and Erik Drysdale. 2019
 

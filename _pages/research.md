@@ -22,6 +22,10 @@ author_profile: true
 
 <a class="btn btn-primary" href="https://arxiv.org/abs/2202.03297" target="_blank" rel="noopener">Paper</a>
 
+<a class="btn btn-primary" href="https://arxiv.org/abs/2202.03297" target="_blank">Paper</a>
+
+<a class="btn btn-primary" href="https://arxiv.org/abs/2202.03297" >Paper</a>
+
 <button type="button" class="btn btn-primary" onclick="location.href='http://www.example.com'">Link</button>
 
 # Discussion

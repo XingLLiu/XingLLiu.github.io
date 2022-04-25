@@ -21,7 +21,7 @@ author_profile: true
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. <a type="button" class="btn btn-primary" href="https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html">Paper</a>
 
 # Discussion
-- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. <a type="button" class="btn btn-primary" href="https://projecteuclid.org/euclid.ba/1580461461#abstract">Journal (pp1032-1034)</a> <a type="button" class="btn btn-primary" href="https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf">Paper</a>
+- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. <a type="button" class="btn btn-primary btn-sm" href="https://projecteuclid.org/euclid.ba/1580461461#abstract">Journal (pp1032-1034)</a> <a type="button" class="btn btn-primary" href="https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf">Paper</a>
 
 # Talks
 - 31st May 2022, *Stein's Method in Statistics*. **Foundations and Landmark Reading Group** at University of London (online) <a type="button" class="btn btn-primary" href="http://XingLLiu.github.io/files/steins_method_ucl.pdf">Slides</a>

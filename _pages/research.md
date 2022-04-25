@@ -20,7 +20,9 @@ author_profile: true
 - **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. [*(paper)*](https://arxiv.org/abs/2202.03297) [*(slides)*](https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000)
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [*(conference)*](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [*(paper)*](https://proceedings.neurips.cc/paper/2020/file/3fe94a002317b5f9259f82690aeea4cd-Paper.pdf)
 
-<button type="button" class="btn btn-link" onclick="location.href='http://www.example.com'">Link</button>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2202.03297" target="_blank" rel="noopener">Paper</a>
+
+<button type="button" class="btn btn-primary" onclick="location.href='http://www.example.com'">Link</button>
 
 # Discussion
 - Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. [(*Journal (pp1032-1034)*)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [*(paper)*](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf).

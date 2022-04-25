@@ -267,6 +267,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji   # emoji
   - jekyll-last-modified-at
+  - jekyll-email-protect
 
 # mimic GitHub Pages with --safe
 whitelist:

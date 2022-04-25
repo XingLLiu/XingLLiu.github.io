@@ -26,7 +26,7 @@ author_profile: true
 
 <a class="btn btn-primary" href="https://arxiv.org/abs/2202.03297" >Paper</a>
 
-<button type="button" class="btn btn-primary" href="https://arxiv.org/abs/2202.03297">Link</button>
+<a type="button" class="btn btn-primary" href="https://arxiv.org/abs/2202.03297">Link</a>
 
 <button type="button" class="btn btn-primary" onclick="location.href='http://www.example.com'">Link</button>
 

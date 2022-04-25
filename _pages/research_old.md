@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research_old/
+permalink: /research/
 author_profile: true
 ---
 <!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->
@@ -18,7 +18,7 @@ author_profile: true
 
 
 # Publication
-- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. <a class="btn btn-primary btn-sm" href="https://arxiv.org/abs/2202.03297">Paper</a> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2202.03297','_blank')">Paper</a> <a type="button" class="btn btn-primary" href="https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000">Slides</a>
+- **Liu, X.**, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). Grassmann Stein Variational Gradient Descent. To appear in AISTATS 2022. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2202.03297','_blank')">Paper</button> <a type="button" class="btn btn-primary" href="https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000">Slides</a>
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. <a type="button" class="btn btn-primary" href="https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html">Paper</a>
 
 # Discussion

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /research_old/
 author_profile: true
 ---
 <!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->

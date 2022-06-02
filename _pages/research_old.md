@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /research_old/
 author_profile: true
 ---
 <!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->
@@ -22,14 +22,12 @@ author_profile: true
 - Zhu, H., **Liu, X.**, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html','_blank')">Paper</button>
 
 # Discussion
-- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”. Bayesian Analysis, 15(3), 965-1056. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://projecteuclid.org/euclid.ba/1580461461#abstract','_blank')">Journal (pp1032-1034)</button> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf','_blank')">Paper</button>
+- Zhu, H., **Liu, X**., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). *Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”*. Bayesian Analysis, 15(3), 965-1056. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://projecteuclid.org/euclid.ba/1580461461#abstract','_blank')">Journal (pp1032-1034)</button> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf','_blank')">Paper</button>
 
 # Talks
 - 31st May 2022, *Stein's Method in Statistics*. **Foundations and Landmark Reading Group** at University of London (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/steins_method_ucl.pdf','_blank')">Slides</button>
 - 19th Aug 2021, *Bayesian probabilistic numerical integration with tree-based models*. **13th International Conference on Monte Carlo Methods and Applications (MCM)**, Universität Mannheim, Germany (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Slides</button>
 - 31st Mar 2021, *Stein Variational Gradient Descent*. **CSML Reading Group** at Imperial College London (online)
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('','_blank')"
 
 # Research Projects
 - *Approximate Bayesian Computation with Optimal Transport*. Part III Essay; supervised by Dr. Sergio Bacallado. 2020. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf','_blank')">Paper</button>

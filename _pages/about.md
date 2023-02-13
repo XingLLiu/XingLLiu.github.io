@@ -12,10 +12,6 @@ I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC
 
 I am a Teaching Assistant for the course *Applicable Maths* (Autumn 2021), which is lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin) and is part of the programme [MSc Machine Learning and Data Science (Online)](https://www.imperial.ac.uk/study/pg/mathematics/machine-learning/). If you have any questions about the course material, you could find me on MS Teams or post a question on the discussion forum on Coursera!
 
-hello
-
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
-
 ## Education 
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span style="color:grey">Imperial College London</span> \
 :mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span style="color:grey">University of Cambridge</span> \

@@ -1,0 +1,9 @@
+.body {
+  width: 100%;
+  margin: 0 auto;
+  // work around to style body
+  @include themed() {
+    color: t('primary');
+    background-color: t('accent');
+  }
+}

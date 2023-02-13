@@ -1,0 +1,52 @@
+[category]
+other = "Kategorie"
+
+[tag]
+other = "Tag"
+
+[reading_time]
+one = "{{ .Count }} Minute zum Lesen"
+other = "{{ .Count }} Minuten zum Lesen"
+
+[old_content_warning]
+one = "Warnung: Dieser Beitrag ist über einen {{ .Count }} Tag alt. Die Information kann veraltet sein."
+other = "Warnung: Dieser Beitrag ist über {{ .Count }} Tage alt. Die Informationen können veraltet sein."
+
+[page_not_found]
+other = "Seite nicht gefunden"
+
+[page_does_not_exist]
+other = "Tut mir leid, diese Seite existiert leider nicht."
+
+[head_back]
+other = "Du kannst hier zurück zur <a href=\"{{ . }}\">Startseite</a>."
+
+[comments]
+other = "Kommentare"
+
+[send]
+other = "Senden"
+
+[read_more]
+other = "weiterlesen"
+
+[name]
+other = "Name"
+
+[email]
+other = "E-Mail Adresse"
+
+[message]
+other = "Nachricht" 
+
+[warning]
+other = "Warnung"
+
+[info]
+other = "Info"
+
+[update]
+other = "Aktualisierung"
+
+[series_posts]
+other = "Beiträge in dieser Serie"

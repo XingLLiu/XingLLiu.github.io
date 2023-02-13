@@ -1,0 +1,97 @@
+{{ define "main" }}
+  {{ range $index, $elemen:= .Site.Data.portfolio.portfolioitems }}
+    <div
+      class="post {{ with .Site.Params.doNotLoadAnimations }}
+        .
+      {{ else }}
+        animated fadeInDown
+      {{ end }}"
+    >
+      {{ $anchorTitle := delimit (split .title " ") "" }}
+      <h2 class="portfolio__title" id="{{ $anchorTitle | lower }}">{{ title .title }}</h2>
+      {{ range $i, $p := .portfolioitem }}
+        <div class="portfolio">
+          {{ if .image }}
+            <div
+              class="portfolio__image-wrapper {{ if (modBool $i 2) }}
+                portfolio__image-wrapper--right
+              {{ else }}
+                portfolio__image-wrapper--left
+              {{ end }}"
+            >
+              {{ if .link }}
+                <a href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+                  <img class="portfolio__image" src="{{ .image | relURL }}" alt="{{ .name | markdownify }}" />
+                </a>
+              {{ else }}
+                <img class="portfolio__image" src="{{ .image | relURL }}" alt="{{ .name | markdownify }}" />
+              {{ end }}
+            </div>
+          {{ end }}
+          <div
+            class="portfolio__description {{ if (modBool $i 2) }}
+              portfolio__description--left
+            {{ else }}
+              portfolio__description--right
+            {{ end }}"
+          >
+            <h2>{{ .name | markdownify }}</h2>
+            <ul class="portfolio__meta">
+              {{ if .status }}
+                <li class="portfolio__meta-item">
+                  <em class="fas fa-flag-checkered"></em>
+                  <span>{{ .status }}</span>
+                </li>
+              {{ end }}
+              {{ if .venue }}
+                <li class="portfolio__meta-item">
+                  <em class="fas fa-map-marker-alt"></em>
+                  <span>{{ .venue }}</span>
+                </li>
+              {{ end }}
+              {{ if .start }}
+                <li class="portfolio__meta-item">
+                  <em class="fas fa-arrow-up"></em>
+                  <span>{{ .start }}</span>
+                </li>
+              {{ end }}
+              {{ if .end }}
+                <li class="portfolio__meta-item">
+                  <em class="fas fa-arrow-down"></em>
+                  <span>{{ .end }}</span>
+                </li>
+              {{ end }}
+              {{ if .authors }}
+                {{ range .authors }}
+                  <li class="portfolio__meta-item">
+                    <em class="fas fa-at"></em>
+                    <span>{{ . }}</span>
+                  </li>
+                {{ end }}
+
+              {{ end }}
+            </ul>
+            <p>{{ .description | markdownify }}</p>
+            {{ if .link }}
+              <div class="portfolio__button-wrapper">
+                <a class="portfolio__button" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+                  {{- if .linktext -}}
+                    {{ .linktext | markdownify }}
+                  {{- else -}}
+                    Visit Site
+                  {{- end -}}
+                </a>
+              </div>
+            {{ end }}
+            <div class="seperator">
+              {{ range .tags }}
+                <p class="tag">{{ . }}</p>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+{{ end }}

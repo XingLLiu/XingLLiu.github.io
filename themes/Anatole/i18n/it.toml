@@ -1,0 +1,48 @@
+[category]
+other = "categoria"
+
+[tag]
+other = "tag"
+
+[reading_time]
+one = "Tempo di lettura: un minuto."
+other = "Tempo di lettura: {{ .Count }} minuti."
+
+[page_not_found]
+other = "Pagina non trovata"
+
+[page_does_not_exist]
+other = "Spiacente, questa pagina non esiste."
+
+[head_back]
+other = "Puoi tornare alla <a href=\"{{ . }}\">homepage</a>."
+
+[comments]
+other = "commenti"
+
+[send]
+other = "Invia"
+
+[read_more]
+other = "Continua a leggere"
+
+[name]
+other = "Nome"
+
+[email]
+other = "Email"
+
+[message]
+other = "Messaggio"
+
+[warning]
+other = "Avviso"
+
+[info]
+other = "Informazioni"
+
+[update]
+other = "Aggiorna"
+
+[series_posts]
+other = "Messaggi di questa serie"

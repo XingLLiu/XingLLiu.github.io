@@ -31,31 +31,31 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-1;
-}
-
-h2 {
   font-size: $type-size-2;
 }
 
-h3 {
+h2 {
   font-size: $type-size-3;
 }
 
-h4 {
+h3 {
   font-size: $type-size-4;
 }
 
-h5 {
+h4 {
   font-size: $type-size-5;
 }
 
-h6 {
+h5 {
   font-size: $type-size-6;
 }
 
-small, .small {
+h6 {
   font-size: $type-size-7;
+}
+
+small, .small {
+  font-size: $type-size-8;
 }
 
 p {

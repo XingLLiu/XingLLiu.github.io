@@ -55,9 +55,10 @@
     border-bottom: 1px solid $border-color;
   }
 
+  /* t: normal text */
   p, li, dl {
-    // font-size: 1em;
-    font-size: $type-size-7;
+    font-size: 0.9em;
+    // font-size: $type-size-6;
   }
 
   /* paragraph indents */
@@ -74,7 +75,7 @@
   }
 
   a {
-    text-decoration: underline;
+    // text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -399,4 +400,11 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.grey {
+  color: $gray;
+}
+.pub-title {
+  font-weight: bold;
 }

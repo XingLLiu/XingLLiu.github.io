@@ -164,6 +164,8 @@
 
 
 
+
+
 <div id="main" role="main">
   
 
@@ -239,11 +241,30 @@
   </div>
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="">
     
-      <h1 class="page__title"></h1>
     
-    <!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">
+</h1>
+          
+        
+        
+        
+        
+             
+        
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <!-- SEE https://getbootstrap.com/docs/4.4/components/buttons/ FOR INTERESTING WIDGETS! -->
 
 <!-- 
 
@@ -252,32 +273,100 @@
  -->
 
 
-<h1>Publication</h1> 
-<ul>
-  <li><b>Liu, X.</b>, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. (2022). <i>Grassmann Stein Variational Gradient Descent</i>. AISTATS 2022. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://proceedings.mlr.press/v151/liu22a.html','_blank')">Paper</button> <a type="button" class="btn btn-primary" href="https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000">Slides</a> </li>
-  <li>Zhu, H., <b>Liu, X.</b>, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). <i>Bayesian probabilistic numerical integration with tree-based models</i>. Neural Information Processing Systems, 5837-5849. <a type="button" class="btn btn-primary btn-sm" href="https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html">Paper</a> </li> 
-  <button type="button" class="btn btn-primary btn-sm" href="https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html">Small button</button>
-</ul>
+<h2>Publication</h2> 
+Huang, K. H., <b>Liu, X.</b>, Duncan, A. B., Gandy, A. (2023). 
+<text class="pub-title">A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing</text>. arXiv preprint arXiv:2302.05686.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2302.05686','_blank')">Preprint</button>
+<br>
+<br>
 
-<h1>Discussion</h1>
-<ul>
-  <li>Zhu, H., <b>Liu, X</b>., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). <i>Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”</i>. Bayesian Analysis, 15(3), 965-1056. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://projecteuclid.org/euclid.ba/1580461461#abstract','_blank')">Journal (pp1032-1034)</button> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf','_blank')">Paper</button> </li>
-</ul>
+<b>Liu, X.</b>, Zhu, H., Ton, J-F., Wynne, G., Duncan, A. B. (2022). <text class="pub-title">Grassmann Stein Variational Gradient Descent</text>. AISTATS 2022.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://proceedings.mlr.press/v151/liu22a.html','_blank')">Paper</button> 
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://docs.google.com/presentation/d/e/2PACX-1vTMmAQEaSB--eTTrg0xzZBdgdA3w530kw4ENg5Oh_a7YpCK4Gd28vc8tMPDMjarevyKjnNF4c1vEccG/pub?start=false&loop=false&delayms=3000','_blank')">Slides</button> 
+<br>
+<br>
 
-<h1>Talks</h1>
-<ul>
-  <li>31st May 2022, <i>Stein's Method in Statistics</i>. <b>Foundations and Landmark Reading Group</b> at University of London (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/steins_method_ucl.pdf','_blank')">Slides</button> </li>
-  <li>19th Aug 2021, <i>Bayesian probabilistic numerical integration with tree-based models</i>. <b>13th International Conference on Monte Carlo Methods and Applications (MCM)</b>, Universität Mannheim, Germany (online) <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Slides</button> </li>
-  <li>31st Mar 2021, <i>Stein Variational Gradient Descent</i>. <b>CSML Reading Group</b> at Imperial College London (online) </li>
-</ul>
+Zhu, H., <b>Liu, X.</b>, Kang, R., Shen, Z., Flaxman, S., Briol, F-X. (2020). <text class="pub-title">Bayesian probabilistic numerical integration with tree-based models</text>. Neural Information Processing Systems, 5837-5849.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html','_blank')">Paper</button> 
+<br>
+<br>
 
-<h1>Research Projects</h1>
-<ul>
-  <li><i>Approximate Bayesian Computation with Optimal Transport</i>. Part III Essay; supervised by Dr. Sergio Bacallado. 2020. <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf','_blank')">Paper</button> </li>
-  <li><i>Predicting Sepsis at Triage</i>. Fields Undergraduate Summer Research Program; supervised by Dr. Anna Goldenberg and Erik Drysdale. 2019 </li>
-</ul>
+<h2>Discussion and Workshop Papers</h2>
+<b>Liu, X.</b>, Duncan, A. B., Gandy, A. (2022). <text class="pub-title">Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy</text>. NeurIPS 2022 Workshop on Score-Based Methods.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://openreview.net/forum?id=iubaXtWi0Y3','_blank')">Paper</button> 
+<br>
+<br>
 
-  </div>
+Zhu, H., <b>Liu, X</b>., Caron, A., Manolopoulou, I. Flaxman, S., Briol, F-X. (2020). <text class="pub-title">Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”</text>. Bayesian Analysis, 15(3), 965-1056.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://projecteuclid.org/euclid.ba/1580461461#abstract','_blank')">Journal (pp1032-1034)</button> 
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf','_blank')">Paper</button>
+<br>
+<br>
+
+<h2>Talks</h2>
+14th Dec 2022, <i>Kernelized Stein Discrepancies and their applications in statistics and machine learning</i>, <b>Junior Stats Seminar</b> at Imperial College London.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/ksd_ic_seminar.pdf','_blank')">Slides</button>
+<br>
+<br>
+
+31st May 2022, <i>Stein's Method in Statistics</i>. <b>Foundations and Landmark Reading Group</b> at University of London (online)
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/steins_method_ucl.pdf','_blank')">Slides</button>
+<br>
+<br>
+
+19th Aug 2021, <i>Bayesian probabilistic numerical integration with tree-based models</i>. <b>13th International Conference on Monte Carlo Methods and Applications (MCM)</b>, Universität Mannheim, Germany (online)
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/BO_BART_mcm.pdf','_blank')">Slides</button>
+<br>
+<br>
+
+31st Mar 2021, <i>Stein Variational Gradient Descent</i>. <b>CSML Reading Group</b> at Imperial College London (online)
+<br>
+<br>
+
+<h2>Research Projects</h2>
+
+<text class="pub-title">Approximate Bayesian Computation with Optimal Transport</text>. Part III Essay; supervised by Dr. Sergio Bacallado. 2020. 
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('http://XingLLiu.github.io/files/Part_III_Essay_ABC_with_Optimal_Transport.pdf','_blank')">Paper</button>
+<br>
+<br>
+
+<text class="pub-title">Predicting Sepsis at Triage</text>. Fields Undergraduate Summer Research Program; supervised by Dr. Anna Goldenberg and Erik Drysdale. 2019
+<br>
+<br>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+
+
+      </footer>
+
+      
+
+      
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
 </div>
 
 
@@ -306,7 +395,7 @@
 
 <div class="page__footer-copyright">&copy; 2023 Xing liu. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
-        2023-02-13 21:58:12 +0000
+        2023-02-14 13:44:34 +0000
       </footer>
     </div>
 

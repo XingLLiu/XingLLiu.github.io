@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Welcome to Xing's website."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /main/
+  - /main.html
 ---
 
 I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). My research interests lie in computational Bayesian statistics and approximate inference.
 
 ## Education 
-:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span style="color:grey">Imperial College London</span> \
-:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span style="color:grey">University of Cambridge</span> \
-:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span style="color:grey">Imperial College London</span>
+:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
+:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span class="grey">University of Cambridge</span> \
+:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
 
 
 ## Resources

@@ -21,7 +21,7 @@ I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC
 
 ## Teaching
 I am/was a Teaching Assistant for the following courses:
-- Spring 2023: *Mathematical Foundations of Machine Learning*. Lectured by [Anastasia Borovykh](https://abrvkh.github.io/).
+- Spring 2023: *Mathematical Foundations of Machine Learning*. Lectured by Dr [Anastasia Borovykh](https://abrvkh.github.io/).
 - Spring 2022: *Exploratory Data Analysis and Visualisation*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 

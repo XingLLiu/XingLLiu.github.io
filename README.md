@@ -5,7 +5,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # To test the site locally
-- Type bundle exec jekyll serve to launch the test Jekyll web server that will re-compile your work if you edit it.
+- Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
 - You can then open http://localhost:4000 in your web browser to see your work-in-progress website. 
 - See this [post](https://nicolas-van.github.io/bootstrap-4-github-pages/) for more details.
 

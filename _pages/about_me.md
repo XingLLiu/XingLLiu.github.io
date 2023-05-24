@@ -6,7 +6,7 @@ author_profile: true
 [Short CV](http://XingLLiu.github.io/files/CV_Xing_LIU.pdf)
 
 
-## Short Bio
+## Bio
 
 I am a PhD student in the [CDT in StatML](https://statml.io/) programme, which is jointly organized by Imperial Collage London and the University of Oxford.
 

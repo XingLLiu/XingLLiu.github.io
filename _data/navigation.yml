@@ -9,8 +9,8 @@ main:
   - title: "Imperial Maths Competition"
     url: /imperial_maths_competition/
 
-#   - title: "Contact"
-#     url: /contact/
+  - title: "Contact"
+    url: /contact/
 
 #  - title: "Talks"
 #    url: /talks/    

@@ -26,7 +26,9 @@ I am/was a Teaching Assistant for the following courses:
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 
 ## News
-- [08/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
+- [12/2023] From 17th to 21st, I will attend the 2023 IMS International Conference on Statistics and Data Science (ICSDS) in Lisbon, where I will give a contributed talk on our COLT paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html).
+
+- [10/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
 
 - [05/2023] Our paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html) has been accepted by COLT 2023.
 

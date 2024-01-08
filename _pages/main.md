@@ -8,7 +8,9 @@ redirect_from:
   - /main.html
 ---
 
-I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020 under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). My research interests lie in computational statistics, distribution testing and kernel methods. In particular, I am interested in using Kernelized Stein Discrepancy to solve problems in computational statistics.
+I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020, where I have been under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). 
+
+My research interests lie in the intersection of kernel methods and computational statistics. Specifically, I am exploring the applications of Kernelized Stein Discrepancy to address challenges in computational statistics, including areas such as distribution testing, particle-based inference and parameter estimation.
 
 ## Education 
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
@@ -35,6 +37,8 @@ I am/was a Teaching Assistant for the following courses:
 - [04/2023] Our paper [Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy](https://arxiv.org/abs/2304.14762) has been accepted by ICML 2023.
 
 - [09/2022] I finished my internship at [Meta](https://research.facebook.com/), where I worked on multi-task active learning methods for e-commerce.
+
+- [01/2022] Our paper [Grassmann Stein Variational Gradient Descent](https://proceedings.mlr.press/v151/liu22a.html) has been accepted by AISTATS 2022.
 
 <!-- ## Contact
 ### Email

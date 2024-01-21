@@ -8,7 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020, where I have been under the supervision of Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). 
+Hi there! My name is Xing (pronounced as "H'sing"). I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020, where I have been advised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). 
 
 My research interests lie in the intersection of kernel methods and computational statistics. Specifically, I am exploring the applications of Kernelized Stein Discrepancy to address challenges in computational statistics, including areas such as distribution testing, particle-based inference and parameter estimation.
 

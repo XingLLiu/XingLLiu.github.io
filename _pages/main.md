@@ -28,6 +28,10 @@ I am/was a Teaching Assistant for the following courses:
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 
 ## News
+- [08/2024] From 12th to 16th August 2024, I will attend the 11th Bernoulli-IMS World Congress in Probability and Statistics, and present our recent preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854), a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/). Come and join our session on Wednesday 14th at 11am if you are interested!
+
+- [08/2024] Our new preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854) is out! This is a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/).
+
 - [12/2023] From 17th to 21st, I will attend the 2023 IMS International Conference on Statistics and Data Science (ICSDS) in Lisbon, where I will give a contributed talk on our COLT paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html).
 
 - [10/2023] For this academic year, I will be visiting the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, co-led by Dr [François-Xavier Briol](https://fxbriol.github.io/) and Dr [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/). Looking forward to an engaging experience with the amazing researchers in the group!

@@ -28,6 +28,8 @@ I am/was a Teaching Assistant for the following courses:
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 
 ## News
+- [10/2025] Our paper [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854), coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR.
+
 - [12/2024] I joined [QuantCo](https://www.quantco.com/) as a full-time Data Scientist. Excited to explore the more applied side of machine learning in this role!
 
 - [12/2024] I successfully defended my PhD thesis! A huge thank-you to my examiners Dr. [Nikolas Kantas](https://www.ma.imperial.ac.uk/~nkantas/) and Prof. [Chris Oates](https://oates.work/) for the insightful discussions during the viva!

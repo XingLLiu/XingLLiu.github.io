@@ -28,7 +28,7 @@ I am/was a Teaching Assistant for the following courses:
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 
 ## News
-- [10/2025] Our paper [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854), coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR.
+- [10/2025] Our paper *On the Robustness of Kernel Goodness-of-Fit Tests*, coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR. [Link](https://jmlr.org/papers/v26/24-1365.html).
 
 - [12/2024] I joined [QuantCo](https://www.quantco.com/) as a full-time Data Scientist. Excited to explore the more applied side of machine learning in this role!
 

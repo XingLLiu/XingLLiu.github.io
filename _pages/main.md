@@ -28,6 +28,10 @@ I am/was a Teaching Assistant for the following courses:
 - Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
 
 ## News
+- [03/2026] Our new preprint [Data Fusion with Distributional Equivalence Test-then-pool](https://arxiv.org/abs/2603.11867) is out! This is led by [Linying Yang](https://linyingyang.github.io/) and in collaboration with Prof [Robin Evans](https://rje42.github.io/).
+
+- [03/2026] Our new preprint [Kernel Tests of Equivalence](https://arxiv.org/abs/2603.10886) is out! This is a joint work with Prof [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/).
+
 - [10/2025] Our paper *On the Robustness of Kernel Goodness-of-Fit Tests*, coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR. [Link](https://jmlr.org/papers/v26/24-1365.html).
 
 - [12/2024] I joined [QuantCo](https://www.quantco.com/) as a full-time Data Scientist. Excited to explore the more applied side of machine learning in this role!

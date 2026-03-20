@@ -8,9 +8,11 @@ redirect_from:
   - /main.html
 ---
 
-Hi there! My name is Xing ([pronunciation](https://translate.google.co.uk/?sl=zh-CN&tl=en&text=%E8%A1%8C&op=translate); similar to "H'sing"). I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020, where I have been advised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). I am also a visiting student in the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group at UCL.
+Hi there! My name is Xing ([pronunciation](https://translate.google.co.uk/?sl=zh-CN&tl=en&text=%E8%A1%8C&op=translate); similar to "H'sing"). I am a Data Scientist at [QuantCo](https://www.quantco.com/), where my work involves building statistical models for insurance pricing. 
 
-My research interests lie in the intersection of kernel methods and computational statistics. Specifically, I am exploring the applications of Kernelized Stein Discrepancy to address challenges in computational statistics, including areas such as distribution testing, particle-based inference and parameter estimation.
+Previously, I finished my PhD in Statistics at Imperial College London. I was in the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) from 2020 to 2024, and I was advised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). I was also a visiting student to the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group at UCL from autumn 2023 to summer 2024.
+
+My research interests lie in the intersection of kernel methods and computational statistics. Specifically, I am exploring the applications of Kernelized Stein Discrepancy in various fields including hypothesis testing, particle-based inference and parameter estimation. 
 
 ## Education 
 :mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
